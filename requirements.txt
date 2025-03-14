@@ -1,0 +1,1 @@
+pip install tensorflow keras numpy opencv-python matplotlib seaborn scikit-learn imutils
